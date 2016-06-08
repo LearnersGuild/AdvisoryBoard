@@ -7,5 +7,6 @@
 * [Operating Model](Operating-Model/README.md)
    * [Working Together](Operating-Model/Working-Together.md)
 * [Appointment Process](Appointment-Documents/README.md)
+   * [Appointees (Pontential)](Appointment-Documents/Potential-Advisors.md)
    * [Acknowledgement of Receipt](Appointment-Documents/Acknowledgment-of-Receipt.md)
    * [Guide to Your Equity](Appointment-Documents/Guide-to-Your-Equity.md)
