@@ -3,7 +3,7 @@
 ## Subject Matter Experts
 - [Bernard Gifford](https://gse.berkeley.edu/people/bernard-gifford), Professor and past education entrepreneur, UC Berkeley Graduate School of Education
 - [Audrey Watters](http://audreywatters.com/), EdTEch Journalist, Founder Hack Education
-- [Esther wojcicki]{https://en.wikipedia.org/wiki/Esther_Wojcicki), acclaimed educator
+- [Esther wojcicki](https://en.wikipedia.org/wiki/Esther_Wojcicki), acclaimed educator
 
 ## Community Leaders
 - [Konda Mason](https://www.linkedin.com/in/konda-mason-89a1b02), Founder & CEO Hub Oakland
